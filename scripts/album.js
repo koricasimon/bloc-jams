@@ -99,8 +99,8 @@ var findParentByClassName = function(element, targetClass) {
         } else {
             alert("No parent with that class found.");
         }
-        } else {
-            alert("No parent found.");
+    } else {
+        alert("No parent found.");
     }
 };
 
